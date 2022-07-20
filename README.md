@@ -2,7 +2,9 @@
 - 👀 I’m interested in knowledge
 - 🌱 I’m currently learning GOLang, C#, PL/SQL, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me for email (thiagoavelinoalves@hotmail.com) or (www.linkedin.com/in/thiago-avelino-b6868a1a4)
+- 📫 How to reach me for email (thiagoavelinoalves@hotmail.com) 
+- 📄 Link to my profile LinkedIn (www.linkedin.com/in/thiago-avelino-b6868a1a4)
+
 
 <!---
 ThiagoAvelino1990/ThiagoAvelino1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
