@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThiagoAvelino1990
 - 😃 I’m interested in knowledge
 - 👨‍🎓 I’m currently learning GOLang, C#, PL/SQL, HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on projects
+- :nerd_face: I’m looking to collaborate on projects
 - 📫 How to reach me for email (thiagoavelinoalves@hotmail.com) 
 - 📄 Link to my profile in LinkedIn (www.linkedin.com/in/thiago-avelino-alves)
 
